@@ -1,0 +1,11 @@
+{
+  "name": "NVX Gesture Studio",
+  "description": "AI-Powered Touchless Creative Design Platform. Air-draw vector graphics, manipulate 3D objects, recognize shapes, and generate designs using natural hand gestures and voice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
